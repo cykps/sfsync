@@ -1,3 +1,5 @@
+### **[日本語版](/README_JP.md)** 
+
 # sfsync
 
 **S**imple-**F**ile-**SYNC** software
