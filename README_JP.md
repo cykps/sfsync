@@ -79,7 +79,7 @@ $ sfsync.exe
 > 例: `sfsync && python3 main.py`
 
 
-### オプション
+## オプション
 
 ```
 使用法: sfsync [オプション]
